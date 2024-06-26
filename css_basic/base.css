@@ -1,0 +1,29 @@
+main {
+    background-color: blue;
+    padding: 20px;
+}
+article {
+    background-color: aqua;
+    padding: 20px;
+}
+footer {
+    background-color: blueviolet;
+    padding: 20px;
+}
+aside {
+    background-color: brown;
+    padding: 20px;
+}
+header {
+    background-color: chartreuse;
+    padding: 20px;
+}
+h1,h2,h3 {
+    color: aliceblue;
+}
+table {
+    background-color: cadetblue;
+}
+.myclass {
+    color: red;
+}
