@@ -15,3 +15,7 @@ aside {
     flex: 1;
     overflow-y: auto;
 }
+.logo {
+    max-width: 100px;
+    height: auto;
+}
